@@ -7,11 +7,11 @@ Bundler.require
 require 'open-uri'
 require 'csv'
 
-URL_ACTIVOS = 'http://www.ine.es/jaxiT3/files/t/es/px/4049.px?nocab=1'
-URL_OCUPADOS = 'http://www.ine.es/jaxiT3/files/t/es/px/4076.px?nocab=1'
-URL_PARADOS = 'http://www.ine.es/jaxiT3/files/t/es/px/4084.px?nocab=1'
-URL_INACTIVOS = 'http://www.ine.es/jaxiT3/files/t/es/px/4134.px?nocab=1'
-FILENAME = 'latest'
+URL_ACTIVOS = 'http://www.ine.es/jaxiT3/files/t/es/px/4204.px?nocab=1'
+URL_OCUPADOS = 'http://www.ine.es/jaxiT3/files/t/es/px/4211.px?nocab=1'
+URL_PARADOS = 'http://www.ine.es/jaxiT3/files/t/es/px/4245.px?nocab=1'
+URL_INACTIVOS = 'http://www.ine.es/jaxiT3/files/t/es/px/4255.px?nocab=1'
+FILENAME = 'ca_latest'
 
 def download(url)
   file = Tempfile.new('px')
@@ -28,9 +28,12 @@ end
 
 def write_csv_file(data)
   CSV.open(File.join(File.dirname(__FILE__), '..', 'data', "#{FILENAME}.csv"), 'w') do |csv|
-    csv << %w(statistic value)
-    data.each do |k, v|
-      csv << [k, v]
+    csv << ["Comunidad Autónoma", "Estadística", "Valor"]
+    data.each do |ca, stats|
+      next if ca == :created_at
+      stats.each do |stat, value|
+        csv << [ca, stat, value]
+      end
     end
   end
 end
@@ -41,15 +44,24 @@ def parse(url)
   dataset = PCAxis::Dataset.new file_path
 
   period = dataset.dimension('Periodo').first
-  dataset.data('Edad' => 'Total', 'Sexo' => 'Ambos sexos', 'Unidad' => 'Valor absoluto', 'Periodo' => period).to_f
+  cas = dataset.dimension("Comunidades y Ciudades Autónomas")
+  values = dataset.data('Edad' => 'Total', 'Sexo' => 'Ambos sexos', 'Periodo' => period)
+  data = []
+  cas.zip(values).each do |c, v|
+    data << c
+    data << v.to_f
+  end
+  Hash[*data]
 end
 
-data = { 'created_at' => Time.now }
+data = { created_at: Time.now }
 { 'activos' => URL_ACTIVOS,
   'ocupados' => URL_OCUPADOS,
   'parados' => URL_PARADOS,
   'inactivos' => URL_INACTIVOS }.each do |label, url|
-  data[label] = parse url
+  parse(url).each do |cas, value|
+    (data[cas] ||= {})[label] = value
+  end
 end
 
 write_json_file data
