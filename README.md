@@ -4,7 +4,7 @@ Repository with employment statistics generators and data
 
 ## Data generation
 
-Run the ruby scripts in [the scripts folder](https://github.com/codeforspain/ds-empleo/scripts) by running:
+Run the ruby scripts in [the scripts folder](https://github.com/codeforspain/ds-empleo/tree/master/scripts) by running:
 
 ```
 $ bundle install
