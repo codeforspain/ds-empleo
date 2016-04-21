@@ -1,451 +1,565 @@
 {
-  "created_at": "2016-04-17 21:31:37 +0200",
-  "2015T4": {
-    "Total": 38489600,
-    "Activos": 22873700,
-    "Ocupados": 18094200,
-    "Parados": 4779500,
-    "Parados que buscan primer empleo": 468700,
-    "Inactivos": 15615900
-  },
-  "2015T3": {
-    "Total": 38486800,
-    "Activos": 22899500,
-    "Ocupados": 18048700,
-    "Parados": 4850800,
-    "Parados que buscan primer empleo": 566800,
-    "Inactivos": 15587300
-  },
-  "2015T2": {
-    "Total": 38496600,
-    "Activos": 23015500,
-    "Ocupados": 17866500,
-    "Parados": 5149000,
-    "Parados que buscan primer empleo": 561600,
-    "Inactivos": 15481100
-  },
-  "2015T1": {
-    "Total": 38517200,
-    "Activos": 22899400,
-    "Ocupados": 17454800,
-    "Parados": 5444600,
-    "Parados que buscan primer empleo": 539100,
-    "Inactivos": 15617800
-  },
-  "2014T4": {
-    "Total": 38523400,
-    "Activos": 23026800,
-    "Ocupados": 17569100,
-    "Parados": 5457700,
-    "Parados que buscan primer empleo": 560400,
-    "Inactivos": 15496500
-  },
-  "2014T3": {
-    "Total": 38523200,
-    "Activos": 22931700,
-    "Ocupados": 17504000,
-    "Parados": 5427700,
-    "Parados que buscan primer empleo": 579200,
-    "Inactivos": 15591500
-  },
-  "2014T2": {
-    "Total": 38528100,
-    "Activos": 22975900,
-    "Ocupados": 17353000,
-    "Parados": 5622900,
-    "Parados que buscan primer empleo": 539600,
-    "Inactivos": 15552200
-  },
-  "2014T1": {
-    "Total": 38483600,
-    "Activos": 22883900,
-    "Ocupados": 16950600,
-    "Parados": 5933300,
-    "Parados que buscan primer empleo": 525000,
-    "Inactivos": 15599700
-  },
-  "2013T4": {
-    "Total": 38543200,
-    "Activos": 23070900,
-    "Ocupados": 17135200,
-    "Parados": 5935600,
-    "Parados que buscan primer empleo": 571800,
-    "Inactivos": 15472300
-  },
-  "2013T3": {
-    "Total": 38597300,
-    "Activos": 23173400,
-    "Ocupados": 17230000,
-    "Parados": 5943400,
-    "Parados que buscan primer empleo": 591500,
-    "Inactivos": 15423900
-  },
-  "2013T2": {
-    "Total": 38680700,
-    "Activos": 23207900,
-    "Ocupados": 17160600,
-    "Parados": 6047300,
-    "Parados que buscan primer empleo": 514100,
-    "Inactivos": 15472800
-  },
-  "2013T1": {
-    "Total": 38733200,
-    "Activos": 23308400,
-    "Ocupados": 17030200,
-    "Parados": 6278200,
-    "Parados que buscan primer empleo": 490600,
-    "Inactivos": 15424800
-  },
-  "2012T4": {
-    "Total": 38783100,
-    "Activos": 23360400,
-    "Ocupados": 17339400,
-    "Parados": 6021000,
-    "Parados que buscan primer empleo": 487400,
-    "Inactivos": 15422700
-  },
-  "2012T3": {
-    "Total": 38799100,
-    "Activos": 23491900,
-    "Ocupados": 17667700,
-    "Parados": 5824200,
-    "Parados que buscan primer empleo": 551800,
-    "Inactivos": 15307200
-  },
-  "2012T2": {
-    "Total": 38823600,
-    "Activos": 23489500,
-    "Ocupados": 17758500,
-    "Parados": 5731000,
-    "Parados que buscan primer empleo": 493200,
-    "Inactivos": 15334100
-  },
-  "2012T1": {
-    "Total": 38854200,
-    "Activos": 23433000,
-    "Ocupados": 17765100,
-    "Parados": 5667900,
-    "Parados que buscan primer empleo": 453500,
-    "Inactivos": 15421200
-  },
-  "2011T4": {
-    "Total": 38881900,
-    "Activos": 23440300,
-    "Ocupados": 18153000,
-    "Parados": 5287300,
-    "Parados que buscan primer empleo": 441300,
-    "Inactivos": 15441500
-  },
-  "2011T3": {
-    "Total": 38851600,
-    "Activos": 23482500,
-    "Ocupados": 18484500,
-    "Parados": 4998000,
-    "Parados que buscan primer empleo": 458200,
-    "Inactivos": 15369100
-  },
-  "2011T2": {
-    "Total": 38827100,
-    "Activos": 23466200,
-    "Ocupados": 18622000,
-    "Parados": 4844200,
-    "Parados que buscan primer empleo": 409900,
-    "Inactivos": 15360900
-  },
-  "2011T1": {
-    "Total": 38808700,
-    "Activos": 23347300,
-    "Ocupados": 18426200,
-    "Parados": 4921200,
-    "Parados que buscan primer empleo": 374100,
-    "Inactivos": 15461400
-  },
-  "2010T4": {
-    "Total": 38801800,
-    "Activos": 23377100,
-    "Ocupados": 18674900,
-    "Parados": 4702200,
-    "Parados que buscan primer empleo": 357900,
-    "Inactivos": 15424700
-  },
-  "2010T3": {
-    "Total": 38768700,
-    "Activos": 23404400,
-    "Ocupados": 18819000,
-    "Parados": 4585400,
-    "Parados que buscan primer empleo": 379000,
-    "Inactivos": 15364300
-  },
-  "2010T2": {
-    "Total": 38745000,
-    "Activos": 23406400,
-    "Ocupados": 18751100,
-    "Parados": 4655300,
-    "Parados que buscan primer empleo": 363600,
-    "Inactivos": 15338600
-  },
-  "2010T1": {
-    "Total": 38725000,
-    "Activos": 23270500,
-    "Ocupados": 18652900,
-    "Parados": 4617700,
-    "Parados que buscan primer empleo": 324200,
-    "Inactivos": 15454400
-  },
-  "2009T4": {
-    "Total": 38713000,
-    "Activos": 23225400,
-    "Ocupados": 18890400,
-    "Parados": 4335000,
-    "Parados que buscan primer empleo": 302300,
-    "Inactivos": 15487500
-  },
-  "2009T3": {
-    "Total": 38670100,
-    "Activos": 23219800,
-    "Ocupados": 19098400,
-    "Parados": 4121400,
-    "Parados que buscan primer empleo": 320300,
-    "Inactivos": 15450300
-  },
-  "2009T2": {
-    "Total": 38631400,
-    "Activos": 23293800,
-    "Ocupados": 19154200,
-    "Parados": 4139600,
-    "Parados que buscan primer empleo": 290300,
-    "Inactivos": 15337600
-  },
-  "2009T1": {
-    "Total": 38589300,
-    "Activos": 23302600,
-    "Ocupados": 19284400,
-    "Parados": 4018200,
-    "Parados que buscan primer empleo": 301200,
-    "Inactivos": 15286700
-  },
-  "2008T4": {
-    "Total": 38546600,
-    "Activos": 23262100,
-    "Ocupados": 20055300,
-    "Parados": 3206800,
-    "Parados que buscan primer empleo": 252800,
-    "Inactivos": 15284500
-  },
-  "2008T3": {
-    "Total": 38447800,
-    "Activos": 23157100,
-    "Ocupados": 20556400,
-    "Parados": 2600700,
-    "Parados que buscan primer empleo": 262500,
-    "Inactivos": 15290700
-  },
-  "2008T2": {
-    "Total": 38341700,
-    "Activos": 23032600,
-    "Ocupados": 20646900,
-    "Parados": 2385700,
-    "Parados que buscan primer empleo": 223700,
-    "Inactivos": 15309000
-  },
-  "2008T1": {
-    "Total": 38224500,
-    "Activos": 22810400,
-    "Ocupados": 20620000,
-    "Parados": 2190500,
-    "Parados que buscan primer empleo": 198700,
-    "Inactivos": 15414000
-  },
-  "2007T4": {
-    "Total": 38101100,
-    "Activos": 22659900,
-    "Ocupados": 20717900,
-    "Parados": 1942000,
-    "Parados que buscan primer empleo": 186800,
-    "Inactivos": 15441300
-  },
-  "2007T3": {
-    "Total": 37916400,
-    "Activos": 22559600,
-    "Ocupados": 20753400,
-    "Parados": 1806200,
-    "Parados que buscan primer empleo": 212600,
-    "Inactivos": 15356800
-  },
-  "2007T2": {
-    "Total": 37743900,
-    "Activos": 22354100,
-    "Ocupados": 20580900,
-    "Parados": 1773200,
-    "Parados que buscan primer empleo": 213600,
-    "Inactivos": 15389800
-  },
-  "2007T1": {
-    "Total": 37570900,
-    "Activos": 22130800,
-    "Ocupados": 20267500,
-    "Parados": 1863200,
-    "Parados que buscan primer empleo": 187100,
-    "Inactivos": 15440200
-  },
-  "2006T4": {
-    "Total": 37388600,
-    "Activos": 22014800,
-    "Ocupados": 20195400,
-    "Parados": 1819400,
-    "Parados que buscan primer empleo": 204400,
-    "Inactivos": 15373800
-  },
-  "2006T3": {
-    "Total": 37209500,
-    "Activos": 21857800,
-    "Ocupados": 20091000,
-    "Parados": 1766900,
-    "Parados que buscan primer empleo": 212000,
-    "Inactivos": 15351700
-  },
-  "2006T2": {
-    "Total": 37055700,
-    "Activos": 21726000,
-    "Ocupados": 19891600,
-    "Parados": 1834400,
-    "Parados que buscan primer empleo": 213800,
-    "Inactivos": 15329700
-  },
-  "2006T1": {
-    "Total": 36917500,
-    "Activos": 21521300,
-    "Ocupados": 19578400,
-    "Parados": 1942800,
-    "Parados que buscan primer empleo": 205700,
-    "Inactivos": 15396200
-  },
-  "2005T4": {
-    "Total": 36796400,
-    "Activos": 21369500,
-    "Ocupados": 19509200,
-    "Parados": 1860300,
-    "Parados que buscan primer empleo": 223200,
-    "Inactivos": 15426900
-  },
-  "2005T3": {
-    "Total": 36650600,
-    "Activos": 21205600,
-    "Ocupados": 19422100,
-    "Parados": 1783500,
-    "Parados que buscan primer empleo": 254300,
-    "Inactivos": 15445000
-  },
-  "2005T2": {
-    "Total": 36519200,
-    "Activos": 21129700,
-    "Ocupados": 19160600,
-    "Parados": 1969100,
-    "Parados que buscan primer empleo": 262100,
-    "Inactivos": 15389400
-  },
-  "2005T1": {
-    "Total": 36351400,
-    "Activos": 20857400,
-    "Ocupados": 18736100,
-    "Parados": 2121300,
-    "Parados que buscan primer empleo": 259600,
-    "Inactivos": 15494000
-  },
-  "2004T4": {
-    "Total": 36184300,
-    "Activos": 20667700,
-    "Ocupados": 18490800,
-    "Parados": 2176900,
-    "Parados que buscan primer empleo": 311300,
-    "Inactivos": 15516600
-  },
-  "2004T3": {
-    "Total": 35987600,
-    "Activos": 20488900,
-    "Ocupados": 18289100,
-    "Parados": 2199800,
-    "Parados que buscan primer empleo": 349300,
-    "Inactivos": 15498700
-  },
-  "2004T2": {
-    "Total": 35838400,
-    "Activos": 20266500,
-    "Ocupados": 18018900,
-    "Parados": 2247600,
-    "Parados que buscan primer empleo": 338900,
-    "Inactivos": 15571900
-  },
-  "2004T1": {
-    "Total": 35704900,
-    "Activos": 20080000,
-    "Ocupados": 17770200,
-    "Parados": 2309800,
-    "Parados que buscan primer empleo": 353500,
-    "Inactivos": 15624900
-  },
-  "2003T4": {
-    "Total": 35582900,
-    "Activos": 20017100,
-    "Ocupados": 17740500,
-    "Parados": 2276700,
-    "Parados que buscan primer empleo": 372300,
-    "Inactivos": 15565800
-  },
-  "2003T3": {
-    "Total": 35430700,
-    "Activos": 19893500,
-    "Ocupados": 17646000,
-    "Parados": 2247500,
-    "Parados que buscan primer empleo": 385600,
-    "Inactivos": 15537200
-  },
-  "2003T2": {
-    "Total": 35288600,
-    "Activos": 19639200,
-    "Ocupados": 17423200,
-    "Parados": 2216000,
-    "Parados que buscan primer empleo": 377100,
-    "Inactivos": 15649400
-  },
-  "2003T1": {
-    "Total": 35134100,
-    "Activos": 19421200,
-    "Ocupados": 17092700,
-    "Parados": 2328500,
-    "Parados que buscan primer empleo": 375900,
-    "Inactivos": 15712800
-  },
-  "2002T4": {
-    "Total": 34982400,
-    "Activos": 19224300,
-    "Ocupados": 16991900,
-    "Parados": 2232400,
-    "Parados que buscan primer empleo": 388700,
-    "Inactivos": 15758100
-  },
-  "2002T3": {
-    "Total": 34804800,
-    "Activos": 19115300,
-    "Ocupados": 16919300,
-    "Parados": 2196000,
-    "Parados que buscan primer empleo": 376700,
-    "Inactivos": 15689500
-  },
-  "2002T2": {
-    "Total": 34639400,
-    "Activos": 18870200,
-    "Ocupados": 16766900,
-    "Parados": 2103300,
-    "Parados que buscan primer empleo": 338400,
-    "Inactivos": 15769200
-  },
-  "2002T1": {
-    "Total": 34470600,
-    "Activos": 18635100,
-    "Ocupados": 16482300,
-    "Parados": 2152800,
-    "Parados que buscan primer empleo": 340800,
-    "Inactivos": 15835500
-  }
+  "created_at": "2016-04-21 21:00:50 +0200",
+  "data": [
+    {
+      "Año": "2015",
+      "Trimestre": "4",
+      "Total": 38489600,
+      "Activos": 22873700,
+      "Ocupados": 18094200,
+      "Parados": 4779500,
+      "Parados que buscan primer empleo": 468700,
+      "Inactivos": 15615900
+    },
+    {
+      "Año": "2015",
+      "Trimestre": "3",
+      "Total": 38486800,
+      "Activos": 22899500,
+      "Ocupados": 18048700,
+      "Parados": 4850800,
+      "Parados que buscan primer empleo": 566800,
+      "Inactivos": 15587300
+    },
+    {
+      "Año": "2015",
+      "Trimestre": "2",
+      "Total": 38496600,
+      "Activos": 23015500,
+      "Ocupados": 17866500,
+      "Parados": 5149000,
+      "Parados que buscan primer empleo": 561600,
+      "Inactivos": 15481100
+    },
+    {
+      "Año": "2015",
+      "Trimestre": "1",
+      "Total": 38517200,
+      "Activos": 22899400,
+      "Ocupados": 17454800,
+      "Parados": 5444600,
+      "Parados que buscan primer empleo": 539100,
+      "Inactivos": 15617800
+    },
+    {
+      "Año": "2014",
+      "Trimestre": "4",
+      "Total": 38523400,
+      "Activos": 23026800,
+      "Ocupados": 17569100,
+      "Parados": 5457700,
+      "Parados que buscan primer empleo": 560400,
+      "Inactivos": 15496500
+    },
+    {
+      "Año": "2014",
+      "Trimestre": "3",
+      "Total": 38523200,
+      "Activos": 22931700,
+      "Ocupados": 17504000,
+      "Parados": 5427700,
+      "Parados que buscan primer empleo": 579200,
+      "Inactivos": 15591500
+    },
+    {
+      "Año": "2014",
+      "Trimestre": "2",
+      "Total": 38528100,
+      "Activos": 22975900,
+      "Ocupados": 17353000,
+      "Parados": 5622900,
+      "Parados que buscan primer empleo": 539600,
+      "Inactivos": 15552200
+    },
+    {
+      "Año": "2014",
+      "Trimestre": "1",
+      "Total": 38483600,
+      "Activos": 22883900,
+      "Ocupados": 16950600,
+      "Parados": 5933300,
+      "Parados que buscan primer empleo": 525000,
+      "Inactivos": 15599700
+    },
+    {
+      "Año": "2013",
+      "Trimestre": "4",
+      "Total": 38543200,
+      "Activos": 23070900,
+      "Ocupados": 17135200,
+      "Parados": 5935600,
+      "Parados que buscan primer empleo": 571800,
+      "Inactivos": 15472300
+    },
+    {
+      "Año": "2013",
+      "Trimestre": "3",
+      "Total": 38597300,
+      "Activos": 23173400,
+      "Ocupados": 17230000,
+      "Parados": 5943400,
+      "Parados que buscan primer empleo": 591500,
+      "Inactivos": 15423900
+    },
+    {
+      "Año": "2013",
+      "Trimestre": "2",
+      "Total": 38680700,
+      "Activos": 23207900,
+      "Ocupados": 17160600,
+      "Parados": 6047300,
+      "Parados que buscan primer empleo": 514100,
+      "Inactivos": 15472800
+    },
+    {
+      "Año": "2013",
+      "Trimestre": "1",
+      "Total": 38733200,
+      "Activos": 23308400,
+      "Ocupados": 17030200,
+      "Parados": 6278200,
+      "Parados que buscan primer empleo": 490600,
+      "Inactivos": 15424800
+    },
+    {
+      "Año": "2012",
+      "Trimestre": "4",
+      "Total": 38783100,
+      "Activos": 23360400,
+      "Ocupados": 17339400,
+      "Parados": 6021000,
+      "Parados que buscan primer empleo": 487400,
+      "Inactivos": 15422700
+    },
+    {
+      "Año": "2012",
+      "Trimestre": "3",
+      "Total": 38799100,
+      "Activos": 23491900,
+      "Ocupados": 17667700,
+      "Parados": 5824200,
+      "Parados que buscan primer empleo": 551800,
+      "Inactivos": 15307200
+    },
+    {
+      "Año": "2012",
+      "Trimestre": "2",
+      "Total": 38823600,
+      "Activos": 23489500,
+      "Ocupados": 17758500,
+      "Parados": 5731000,
+      "Parados que buscan primer empleo": 493200,
+      "Inactivos": 15334100
+    },
+    {
+      "Año": "2012",
+      "Trimestre": "1",
+      "Total": 38854200,
+      "Activos": 23433000,
+      "Ocupados": 17765100,
+      "Parados": 5667900,
+      "Parados que buscan primer empleo": 453500,
+      "Inactivos": 15421200
+    },
+    {
+      "Año": "2011",
+      "Trimestre": "4",
+      "Total": 38881900,
+      "Activos": 23440300,
+      "Ocupados": 18153000,
+      "Parados": 5287300,
+      "Parados que buscan primer empleo": 441300,
+      "Inactivos": 15441500
+    },
+    {
+      "Año": "2011",
+      "Trimestre": "3",
+      "Total": 38851600,
+      "Activos": 23482500,
+      "Ocupados": 18484500,
+      "Parados": 4998000,
+      "Parados que buscan primer empleo": 458200,
+      "Inactivos": 15369100
+    },
+    {
+      "Año": "2011",
+      "Trimestre": "2",
+      "Total": 38827100,
+      "Activos": 23466200,
+      "Ocupados": 18622000,
+      "Parados": 4844200,
+      "Parados que buscan primer empleo": 409900,
+      "Inactivos": 15360900
+    },
+    {
+      "Año": "2011",
+      "Trimestre": "1",
+      "Total": 38808700,
+      "Activos": 23347300,
+      "Ocupados": 18426200,
+      "Parados": 4921200,
+      "Parados que buscan primer empleo": 374100,
+      "Inactivos": 15461400
+    },
+    {
+      "Año": "2010",
+      "Trimestre": "4",
+      "Total": 38801800,
+      "Activos": 23377100,
+      "Ocupados": 18674900,
+      "Parados": 4702200,
+      "Parados que buscan primer empleo": 357900,
+      "Inactivos": 15424700
+    },
+    {
+      "Año": "2010",
+      "Trimestre": "3",
+      "Total": 38768700,
+      "Activos": 23404400,
+      "Ocupados": 18819000,
+      "Parados": 4585400,
+      "Parados que buscan primer empleo": 379000,
+      "Inactivos": 15364300
+    },
+    {
+      "Año": "2010",
+      "Trimestre": "2",
+      "Total": 38745000,
+      "Activos": 23406400,
+      "Ocupados": 18751100,
+      "Parados": 4655300,
+      "Parados que buscan primer empleo": 363600,
+      "Inactivos": 15338600
+    },
+    {
+      "Año": "2010",
+      "Trimestre": "1",
+      "Total": 38725000,
+      "Activos": 23270500,
+      "Ocupados": 18652900,
+      "Parados": 4617700,
+      "Parados que buscan primer empleo": 324200,
+      "Inactivos": 15454400
+    },
+    {
+      "Año": "2009",
+      "Trimestre": "4",
+      "Total": 38713000,
+      "Activos": 23225400,
+      "Ocupados": 18890400,
+      "Parados": 4335000,
+      "Parados que buscan primer empleo": 302300,
+      "Inactivos": 15487500
+    },
+    {
+      "Año": "2009",
+      "Trimestre": "3",
+      "Total": 38670100,
+      "Activos": 23219800,
+      "Ocupados": 19098400,
+      "Parados": 4121400,
+      "Parados que buscan primer empleo": 320300,
+      "Inactivos": 15450300
+    },
+    {
+      "Año": "2009",
+      "Trimestre": "2",
+      "Total": 38631400,
+      "Activos": 23293800,
+      "Ocupados": 19154200,
+      "Parados": 4139600,
+      "Parados que buscan primer empleo": 290300,
+      "Inactivos": 15337600
+    },
+    {
+      "Año": "2009",
+      "Trimestre": "1",
+      "Total": 38589300,
+      "Activos": 23302600,
+      "Ocupados": 19284400,
+      "Parados": 4018200,
+      "Parados que buscan primer empleo": 301200,
+      "Inactivos": 15286700
+    },
+    {
+      "Año": "2008",
+      "Trimestre": "4",
+      "Total": 38546600,
+      "Activos": 23262100,
+      "Ocupados": 20055300,
+      "Parados": 3206800,
+      "Parados que buscan primer empleo": 252800,
+      "Inactivos": 15284500
+    },
+    {
+      "Año": "2008",
+      "Trimestre": "3",
+      "Total": 38447800,
+      "Activos": 23157100,
+      "Ocupados": 20556400,
+      "Parados": 2600700,
+      "Parados que buscan primer empleo": 262500,
+      "Inactivos": 15290700
+    },
+    {
+      "Año": "2008",
+      "Trimestre": "2",
+      "Total": 38341700,
+      "Activos": 23032600,
+      "Ocupados": 20646900,
+      "Parados": 2385700,
+      "Parados que buscan primer empleo": 223700,
+      "Inactivos": 15309000
+    },
+    {
+      "Año": "2008",
+      "Trimestre": "1",
+      "Total": 38224500,
+      "Activos": 22810400,
+      "Ocupados": 20620000,
+      "Parados": 2190500,
+      "Parados que buscan primer empleo": 198700,
+      "Inactivos": 15414000
+    },
+    {
+      "Año": "2007",
+      "Trimestre": "4",
+      "Total": 38101100,
+      "Activos": 22659900,
+      "Ocupados": 20717900,
+      "Parados": 1942000,
+      "Parados que buscan primer empleo": 186800,
+      "Inactivos": 15441300
+    },
+    {
+      "Año": "2007",
+      "Trimestre": "3",
+      "Total": 37916400,
+      "Activos": 22559600,
+      "Ocupados": 20753400,
+      "Parados": 1806200,
+      "Parados que buscan primer empleo": 212600,
+      "Inactivos": 15356800
+    },
+    {
+      "Año": "2007",
+      "Trimestre": "2",
+      "Total": 37743900,
+      "Activos": 22354100,
+      "Ocupados": 20580900,
+      "Parados": 1773200,
+      "Parados que buscan primer empleo": 213600,
+      "Inactivos": 15389800
+    },
+    {
+      "Año": "2007",
+      "Trimestre": "1",
+      "Total": 37570900,
+      "Activos": 22130800,
+      "Ocupados": 20267500,
+      "Parados": 1863200,
+      "Parados que buscan primer empleo": 187100,
+      "Inactivos": 15440200
+    },
+    {
+      "Año": "2006",
+      "Trimestre": "4",
+      "Total": 37388600,
+      "Activos": 22014800,
+      "Ocupados": 20195400,
+      "Parados": 1819400,
+      "Parados que buscan primer empleo": 204400,
+      "Inactivos": 15373800
+    },
+    {
+      "Año": "2006",
+      "Trimestre": "3",
+      "Total": 37209500,
+      "Activos": 21857800,
+      "Ocupados": 20091000,
+      "Parados": 1766900,
+      "Parados que buscan primer empleo": 212000,
+      "Inactivos": 15351700
+    },
+    {
+      "Año": "2006",
+      "Trimestre": "2",
+      "Total": 37055700,
+      "Activos": 21726000,
+      "Ocupados": 19891600,
+      "Parados": 1834400,
+      "Parados que buscan primer empleo": 213800,
+      "Inactivos": 15329700
+    },
+    {
+      "Año": "2006",
+      "Trimestre": "1",
+      "Total": 36917500,
+      "Activos": 21521300,
+      "Ocupados": 19578400,
+      "Parados": 1942800,
+      "Parados que buscan primer empleo": 205700,
+      "Inactivos": 15396200
+    },
+    {
+      "Año": "2005",
+      "Trimestre": "4",
+      "Total": 36796400,
+      "Activos": 21369500,
+      "Ocupados": 19509200,
+      "Parados": 1860300,
+      "Parados que buscan primer empleo": 223200,
+      "Inactivos": 15426900
+    },
+    {
+      "Año": "2005",
+      "Trimestre": "3",
+      "Total": 36650600,
+      "Activos": 21205600,
+      "Ocupados": 19422100,
+      "Parados": 1783500,
+      "Parados que buscan primer empleo": 254300,
+      "Inactivos": 15445000
+    },
+    {
+      "Año": "2005",
+      "Trimestre": "2",
+      "Total": 36519200,
+      "Activos": 21129700,
+      "Ocupados": 19160600,
+      "Parados": 1969100,
+      "Parados que buscan primer empleo": 262100,
+      "Inactivos": 15389400
+    },
+    {
+      "Año": "2005",
+      "Trimestre": "1",
+      "Total": 36351400,
+      "Activos": 20857400,
+      "Ocupados": 18736100,
+      "Parados": 2121300,
+      "Parados que buscan primer empleo": 259600,
+      "Inactivos": 15494000
+    },
+    {
+      "Año": "2004",
+      "Trimestre": "4",
+      "Total": 36184300,
+      "Activos": 20667700,
+      "Ocupados": 18490800,
+      "Parados": 2176900,
+      "Parados que buscan primer empleo": 311300,
+      "Inactivos": 15516600
+    },
+    {
+      "Año": "2004",
+      "Trimestre": "3",
+      "Total": 35987600,
+      "Activos": 20488900,
+      "Ocupados": 18289100,
+      "Parados": 2199800,
+      "Parados que buscan primer empleo": 349300,
+      "Inactivos": 15498700
+    },
+    {
+      "Año": "2004",
+      "Trimestre": "2",
+      "Total": 35838400,
+      "Activos": 20266500,
+      "Ocupados": 18018900,
+      "Parados": 2247600,
+      "Parados que buscan primer empleo": 338900,
+      "Inactivos": 15571900
+    },
+    {
+      "Año": "2004",
+      "Trimestre": "1",
+      "Total": 35704900,
+      "Activos": 20080000,
+      "Ocupados": 17770200,
+      "Parados": 2309800,
+      "Parados que buscan primer empleo": 353500,
+      "Inactivos": 15624900
+    },
+    {
+      "Año": "2003",
+      "Trimestre": "4",
+      "Total": 35582900,
+      "Activos": 20017100,
+      "Ocupados": 17740500,
+      "Parados": 2276700,
+      "Parados que buscan primer empleo": 372300,
+      "Inactivos": 15565800
+    },
+    {
+      "Año": "2003",
+      "Trimestre": "3",
+      "Total": 35430700,
+      "Activos": 19893500,
+      "Ocupados": 17646000,
+      "Parados": 2247500,
+      "Parados que buscan primer empleo": 385600,
+      "Inactivos": 15537200
+    },
+    {
+      "Año": "2003",
+      "Trimestre": "2",
+      "Total": 35288600,
+      "Activos": 19639200,
+      "Ocupados": 17423200,
+      "Parados": 2216000,
+      "Parados que buscan primer empleo": 377100,
+      "Inactivos": 15649400
+    },
+    {
+      "Año": "2003",
+      "Trimestre": "1",
+      "Total": 35134100,
+      "Activos": 19421200,
+      "Ocupados": 17092700,
+      "Parados": 2328500,
+      "Parados que buscan primer empleo": 375900,
+      "Inactivos": 15712800
+    },
+    {
+      "Año": "2002",
+      "Trimestre": "4",
+      "Total": 34982400,
+      "Activos": 19224300,
+      "Ocupados": 16991900,
+      "Parados": 2232400,
+      "Parados que buscan primer empleo": 388700,
+      "Inactivos": 15758100
+    },
+    {
+      "Año": "2002",
+      "Trimestre": "3",
+      "Total": 34804800,
+      "Activos": 19115300,
+      "Ocupados": 16919300,
+      "Parados": 2196000,
+      "Parados que buscan primer empleo": 376700,
+      "Inactivos": 15689500
+    },
+    {
+      "Año": "2002",
+      "Trimestre": "2",
+      "Total": 34639400,
+      "Activos": 18870200,
+      "Ocupados": 16766900,
+      "Parados": 2103300,
+      "Parados que buscan primer empleo": 338400,
+      "Inactivos": 15769200
+    },
+    {
+      "Año": "2002",
+      "Trimestre": "1",
+      "Total": 34470600,
+      "Activos": 18635100,
+      "Ocupados": 16482300,
+      "Parados": 2152800,
+      "Parados que buscan primer empleo": 340800,
+      "Inactivos": 15835500
+    }
+  ]
 }

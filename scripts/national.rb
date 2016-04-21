@@ -7,6 +7,8 @@ require 'csv'
 
 URL = 'http://www.ine.es/jaxiT3/files/t/es/px/4048.px?nocab=1'
 FILENAME = 'national'
+YEAR_KEY = 'Año'
+QUARTER_KEY = 'Trimestre'
 
 def download(url)
   file = Tempfile.new('px')
@@ -21,14 +23,11 @@ def write_json_file(data)
   end
 end
 
-def write_csv_file(data)
+def write_csv_file(headers, data)
   CSV.open(File.join(File.dirname(__FILE__), '..', 'data', "#{FILENAME}.csv"), 'w') do |csv|
-    csv << ["Periodo", "Estadística", "Valor"]
-    data.each do |period, stats|
-      next if period == :created_at
-      stats.each do |stat, value|
-        csv << [period, stat, value]
-      end
+    csv << headers
+    data[:data].each do |dp|
+      csv << headers.map { |h| dp[h] }
     end
   end
 end
@@ -40,17 +39,19 @@ dataset = PCAxis::Dataset.new file_path
 periods = dataset.dimension('Periodo')
 statuses = dataset.dimension('Relación con la actividad económica')
 
-data = { created_at: Time.now }
-periods.each do |period|
-  curr_period = {}
+datapoints = periods.map do |period|
+  year, quarter = period.split('T')
+  curr_period = { YEAR_KEY => year, QUARTER_KEY => quarter }
   values = dataset.data('Sexo' => 'Ambos sexos', 'Edad' => 'Total', 'Periodo' => period)
   statuses.zip(values).each do |status, value|
     curr_period[status] = (value.to_f * 1000).round
   end
-  data[period] = curr_period
+  curr_period
 end
 
+data = { created_at: Time.now, data: datapoints }
+
 write_json_file data
-write_csv_file data
+write_csv_file ([YEAR_KEY, QUARTER_KEY] + statuses), data
 
 puts 'DONE!'
