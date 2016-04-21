@@ -26,7 +26,7 @@ end
 def write_csv_file(headers, data)
   CSV.open(File.join(File.dirname(__FILE__), '..', 'data', "#{FILENAME}.csv"), 'w') do |csv|
     csv << headers
-    data[:data].each do |dp|
+    data.each do |dp|
       csv << headers.map { |h| dp[h] }
     end
   end
@@ -52,6 +52,6 @@ end
 data = { created_at: Time.now, data: datapoints }
 
 write_json_file data
-write_csv_file ([YEAR_KEY, QUARTER_KEY] + statuses), data
+write_csv_file ([YEAR_KEY, QUARTER_KEY] + statuses), datapoints
 
 puts 'DONE!'
