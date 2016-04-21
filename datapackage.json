@@ -1,0 +1,205 @@
+{
+  "name": "ds-empleo",
+  "title": "Empleo en España",
+  "descriptions": "Diferentes estadísticas y granularidades sobre la situación laboral en España",
+  "licenses": [
+    {
+      "type": "odc-pddl",
+      "url": "http://opendatacommons.org/licenses/pddl/"
+    }
+  ],
+  "author": {
+    "name": "Code for Spain",
+    "web": "http://www.codeforspain.org"
+  },
+  "keywords": [
+    "Nacional",
+    "Provincias",
+    "Comunidades Autonomas"
+  ],
+  "version": "0.0.1",
+  "last_updated": "2016-04-21",
+  "sources": [
+    {
+      "name": "Instituto Nacional de Estadistica",
+      "web": "http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=resultados&idp=1254735976595"
+    }
+  ],
+  "resources": [
+    {
+      "path": "data/national.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Año",
+            "type": "number",
+            "description": "Año al que el registro corresponde",
+            "pattern": "[0-9]{4}"
+          },
+          {
+            "name": "Trimestre",
+            "type": "number",
+            "description": "Trimestre al que el registro corresponde",
+            "pattern": "[0-9]{1}"
+          },
+          {
+            "name": "Total",
+            "type": "number",
+            "description": "Número total aproximado de habitantes",
+            "pattern": "[0-9]{8}"
+          },
+          {
+            "name": "Activos",
+            "type": "number",
+            "description": "Población activa",
+            "pattern": "[0-9]{8}"
+          },
+          {
+            "name": "Ocupados",
+            "type": "number",
+            "description": "Población ocupada",
+            "pattern": "[0-9]{8}"
+          },
+          {
+            "name": "Parados",
+            "type": "number",
+            "description": "Población en paro",
+            "pattern": "[0-9]{7}"
+          },
+          {
+            "name": "Parados que buscan primer empleo",
+            "type": "number",
+            "description": "Población que busca su primer empleo",
+            "pattern": "[0-9]{6}"
+          },
+          {
+            "name": "Inactivos",
+            "type": "number",
+            "description": "Población inactiva",
+            "pattern": "[0-9]{8}"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/provinces.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Año",
+            "type": "number",
+            "description": "Año al que el registro corresponde",
+            "pattern": "[0-9]{4}"
+          },
+          {
+            "name": "Trimestre",
+            "type": "number",
+            "description": "Trimestre al que el registro corresponde",
+            "pattern": "[0-9]{1}"
+          },
+          {
+            "name": "Provincia",
+            "type": "string",
+            "description": "Nombre de la provincia al que el registro corresponde"
+          },
+          {
+            "name": "Total",
+            "type": "number",
+            "description": "Número total aproximado de habitantes",
+            "pattern": "[0-9]{8}"
+          },
+          {
+            "name": "Activos",
+            "type": "number",
+            "description": "Población activa",
+            "pattern": "[0-9]{8}"
+          },
+          {
+            "name": "Ocupados",
+            "type": "number",
+            "description": "Población ocupada",
+            "pattern": "[0-9]{8}"
+          },
+          {
+            "name": "Parados",
+            "type": "number",
+            "description": "Población en paro",
+            "pattern": "[0-9]{7}"
+          },
+          {
+            "name": "Parados que buscan primer empleo",
+            "type": "number",
+            "description": "Población que busca su primer empleo",
+            "pattern": "[0-9]{6}"
+          },
+          {
+            "name": "Inactivos",
+            "type": "number",
+            "description": "Población inactiva",
+            "pattern": "[0-9]{8}"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/autonomias.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Año",
+            "type": "number",
+            "description": "Año al que el registro corresponde",
+            "pattern": "[0-9]{4}"
+          },
+          {
+            "name": "Trimestre",
+            "type": "number",
+            "description": "Trimestre al que el registro corresponde",
+            "pattern": "[0-9]{1}"
+          },
+          {
+            "name": "Comunidad Autónoma",
+            "type": "string",
+            "description": "Nombre de la comunidad autónoma al que el registro corresponde"
+          },
+          {
+            "name": "Total",
+            "type": "number",
+            "description": "Número total aproximado de habitantes",
+            "pattern": "[0-9]{8}"
+          },
+          {
+            "name": "Activos",
+            "type": "number",
+            "description": "Población activa",
+            "pattern": "[0-9]{8}"
+          },
+          {
+            "name": "Ocupados",
+            "type": "number",
+            "description": "Población ocupada",
+            "pattern": "[0-9]{8}"
+          },
+          {
+            "name": "Parados",
+            "type": "number",
+            "description": "Población en paro",
+            "pattern": "[0-9]{7}"
+          },
+          {
+            "name": "Parados que buscan primer empleo",
+            "type": "number",
+            "description": "Población que busca su primer empleo",
+            "pattern": "[0-9]{6}"
+          },
+          {
+            "name": "Inactivos",
+            "type": "number",
+            "description": "Población inactiva",
+            "pattern": "[0-9]{8}"
+          }
+        ]
+      }
+    }
+  ]
+}

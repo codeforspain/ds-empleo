@@ -33,6 +33,16 @@ def write_csv_file(headers, data)
   end
 end
 
+def update_datapackage
+  File.open(File.join(File.dirname(__FILE__), '..', 'datapackage.json'), 'a+') do |f|
+    f.rewind
+    dp = JSON.parse f.read, symbolize_names: true
+    dp[:last_updated] = Date.today
+    f.truncate 0
+    f.write JSON.pretty_generate dp
+  end
+end
+
 file_path = download URL
 
 dataset = PCAxis::Dataset.new file_path
@@ -52,9 +62,10 @@ datapoints = cas.reject{|ca| ca == 'Nacional'}.map do |ca|
     curr_period
   end
 end.flatten
-data = { created_at: Time.now, data: datapoints }
+data = { data: datapoints }
 
 write_json_file data
 write_csv_file ([YEAR_KEY, QUARTER_KEY, AUTONOMOUS_COMMUNITY_KEY] + statuses), datapoints
+update_datapackage
 
 puts 'DONE!'
