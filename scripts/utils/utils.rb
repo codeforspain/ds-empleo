@@ -5,10 +5,10 @@ require 'csv'
 module CodeForSpain
   module Utils
 
-    def download(url)
+    def download(url, encoding='utf-8')
       file = Tempfile.new('px')
       open(file.path, 'wb') do |file|
-        file << open(url).read.encode!('utf-8', 'iso-8859-15')
+        file << open(url).read.encode!('utf-8', encoding)
       end
     end
 
