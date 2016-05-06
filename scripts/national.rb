@@ -9,10 +9,11 @@ URL = 'http://www.ine.es/jaxiT3/files/t/es/px/4048.px?nocab=1'
 FILENAME = 'national'
 YEAR_KEY = 'Año'
 QUARTER_KEY = 'Trimestre'
+INPUT_ENCODING = 'iso-8859-15'
 
 include CodeForSpain::Utils
 
-file_path = download URL
+file_path = download URL, INPUT_ENCODING
 
 dataset = PCAxis::Dataset.new file_path
 
