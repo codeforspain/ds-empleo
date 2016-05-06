@@ -1,6 +1,17 @@
 {
   "data": [
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Albacete",
+      "Total": 326400,
+      "Activos": 183400,
+      "Ocupados": 138200,
+      "Parados": 45200,
+      "Parados que buscan primer empleo": 5100,
+      "Inactivos": 143000
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Albacete",
@@ -615,6 +626,17 @@
       "Parados": 9700,
       "Parados que buscan primer empleo": 800,
       "Inactivos": 152200
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Alicante/Alacant",
+      "Total": 1538400,
+      "Activos": 892600,
+      "Ocupados": 681700,
+      "Parados": 210800,
+      "Parados que buscan primer empleo": 13200,
+      "Inactivos": 645800
     },
     {
       "Año": "2015",
@@ -1233,6 +1255,17 @@
       "Inactivos": 563300
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Almería",
+      "Total": 562800,
+      "Activos": 334400,
+      "Ocupados": 252800,
+      "Parados": 81600,
+      "Parados que buscan primer empleo": 3100,
+      "Inactivos": 228400
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Almería",
@@ -1847,6 +1880,17 @@
       "Parados": 27800,
       "Parados que buscan primer empleo": 5700,
       "Inactivos": 187400
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Araba/Álava",
+      "Total": 265200,
+      "Activos": 156100,
+      "Ocupados": 139400,
+      "Parados": 16700,
+      "Parados que buscan primer empleo": 1300,
+      "Inactivos": 109100
     },
     {
       "Año": "2015",
@@ -2465,6 +2509,17 @@
       "Inactivos": 102200
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Asturias",
+      "Total": 908100,
+      "Activos": 466300,
+      "Ocupados": 375400,
+      "Parados": 90900,
+      "Parados que buscan primer empleo": 9400,
+      "Inactivos": 441800
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Asturias",
@@ -3079,6 +3134,17 @@
       "Parados": 37100,
       "Parados que buscan primer empleo": 10700,
       "Inactivos": 531600
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Ávila",
+      "Total": 138100,
+      "Activos": 76400,
+      "Ocupados": 55900,
+      "Parados": 20400,
+      "Parados que buscan primer empleo": 1800,
+      "Inactivos": 61800
     },
     {
       "Año": "2015",
@@ -3697,6 +3763,17 @@
       "Inactivos": 77200
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Badajoz",
+      "Total": 569600,
+      "Activos": 322200,
+      "Ocupados": 224000,
+      "Parados": 98200,
+      "Parados que buscan primer empleo": 5600,
+      "Inactivos": 247300
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Badajoz",
@@ -4311,6 +4388,17 @@
       "Parados": 55000,
       "Parados que buscan primer empleo": 8900,
       "Inactivos": 265700
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Balears,",
+      "Total": 941100,
+      "Activos": 601900,
+      "Ocupados": 491100,
+      "Parados": 110800,
+      "Parados que buscan primer empleo": 9300,
+      "Inactivos": 339300
     },
     {
       "Año": "2015",
@@ -4929,6 +5017,17 @@
       "Inactivos": 291000
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Barcelona",
+      "Total": 4480700,
+      "Activos": 2796700,
+      "Ocupados": 2319800,
+      "Parados": 476900,
+      "Parados que buscan primer empleo": 44400,
+      "Inactivos": 1684000
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Barcelona",
@@ -5543,6 +5642,17 @@
       "Parados": 268000,
       "Parados que buscan primer empleo": 33400,
       "Inactivos": 1701200
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Bizkaia",
+      "Total": 957000,
+      "Activos": 537200,
+      "Ocupados": 457500,
+      "Parados": 79700,
+      "Parados que buscan primer empleo": 11000,
+      "Inactivos": 419800
     },
     {
       "Año": "2015",
@@ -6161,6 +6271,17 @@
       "Inactivos": 457400
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Burgos",
+      "Total": 301700,
+      "Activos": 179900,
+      "Ocupados": 152300,
+      "Parados": 27700,
+      "Parados que buscan primer empleo": 2100,
+      "Inactivos": 121700
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Burgos",
@@ -6775,6 +6896,17 @@
       "Parados": 9000,
       "Parados que buscan primer empleo": 1300,
       "Inactivos": 142000
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Cáceres",
+      "Total": 340400,
+      "Activos": 182200,
+      "Ocupados": 133500,
+      "Parados": 48700,
+      "Parados que buscan primer empleo": 5200,
+      "Inactivos": 158100
     },
     {
       "Año": "2015",
@@ -7393,6 +7525,17 @@
       "Inactivos": 170600
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Cádiz",
+      "Total": 1016700,
+      "Activos": 574500,
+      "Ocupados": 361000,
+      "Parados": 213400,
+      "Parados que buscan primer empleo": 21200,
+      "Inactivos": 442200
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Cádiz",
@@ -8007,6 +8150,17 @@
       "Parados": 132200,
       "Parados que buscan primer empleo": 20400,
       "Inactivos": 426300
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Cantabria",
+      "Total": 492000,
+      "Activos": 273900,
+      "Ocupados": 222100,
+      "Parados": 51800,
+      "Parados que buscan primer empleo": 4500,
+      "Inactivos": 218100
     },
     {
       "Año": "2015",
@@ -8625,6 +8779,17 @@
       "Inactivos": 231700
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Castellón/Castelló",
+      "Total": 471200,
+      "Activos": 269400,
+      "Ocupados": 211600,
+      "Parados": 57700,
+      "Parados que buscan primer empleo": 4500,
+      "Inactivos": 201900
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Castellón/Castelló",
@@ -9239,6 +9404,17 @@
       "Parados": 13100,
       "Parados que buscan primer empleo": 1400,
       "Inactivos": 178900
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Ciudad",
+      "Total": 423100,
+      "Activos": 234700,
+      "Ocupados": 165600,
+      "Parados": 69100,
+      "Parados que buscan primer empleo": 9000,
+      "Inactivos": 188400
     },
     {
       "Año": "2015",
@@ -9857,6 +10033,17 @@
       "Inactivos": 204500
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Córdoba",
+      "Total": 654400,
+      "Activos": 378700,
+      "Ocupados": 269600,
+      "Parados": 109200,
+      "Parados que buscan primer empleo": 11200,
+      "Inactivos": 275700
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Córdoba",
@@ -10471,6 +10658,17 @@
       "Parados": 57800,
       "Parados que buscan primer empleo": 8900,
       "Inactivos": 314900
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Coruña,",
+      "Total": 970800,
+      "Activos": 526700,
+      "Ocupados": 441800,
+      "Parados": 84900,
+      "Parados que buscan primer empleo": 6300,
+      "Inactivos": 444100
     },
     {
       "Año": "2015",
@@ -11089,6 +11287,17 @@
       "Inactivos": 472400
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Cuenca",
+      "Total": 172000,
+      "Activos": 96200,
+      "Ocupados": 77200,
+      "Parados": 19000,
+      "Parados que buscan primer empleo": 1500,
+      "Inactivos": 75800
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Cuenca",
@@ -11703,6 +11912,17 @@
       "Parados": 5500,
       "Parados que buscan primer empleo": 800,
       "Inactivos": 93700
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Gipuzkoa",
+      "Total": 587300,
+      "Activos": 335100,
+      "Ocupados": 299900,
+      "Parados": 35200,
+      "Parados que buscan primer empleo": 2800,
+      "Inactivos": 252200
     },
     {
       "Año": "2015",
@@ -12321,6 +12541,17 @@
       "Inactivos": 257500
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Girona",
+      "Total": 602400,
+      "Activos": 373800,
+      "Ocupados": 308400,
+      "Parados": 65400,
+      "Parados que buscan primer empleo": 6200,
+      "Inactivos": 228600
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Girona",
@@ -12935,6 +13166,17 @@
       "Parados": 29300,
       "Parados que buscan primer empleo": 3800,
       "Inactivos": 195500
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Granada",
+      "Total": 754900,
+      "Activos": 441500,
+      "Ocupados": 310600,
+      "Parados": 130900,
+      "Parados que buscan primer empleo": 12600,
+      "Inactivos": 313400
     },
     {
       "Año": "2015",
@@ -13553,6 +13795,17 @@
       "Inactivos": 335900
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Guadalajara",
+      "Total": 204200,
+      "Activos": 133600,
+      "Ocupados": 109800,
+      "Parados": 23800,
+      "Parados que buscan primer empleo": 2400,
+      "Inactivos": 70600
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Guadalajara",
@@ -14167,6 +14420,17 @@
       "Parados": 7200,
       "Parados que buscan primer empleo": 1400,
       "Inactivos": 71500
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Huelva",
+      "Total": 427400,
+      "Activos": 244400,
+      "Ocupados": 168700,
+      "Parados": 75700,
+      "Parados que buscan primer empleo": 5700,
+      "Inactivos": 183000
     },
     {
       "Año": "2015",
@@ -14785,6 +15049,17 @@
       "Inactivos": 187200
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Huesca",
+      "Total": 183900,
+      "Activos": 105800,
+      "Ocupados": 91000,
+      "Parados": 14800,
+      "Parados que buscan primer empleo": 1700,
+      "Inactivos": 78100
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Huesca",
@@ -15399,6 +15674,17 @@
       "Parados": 4600,
       "Parados que buscan primer empleo": 300,
       "Inactivos": 89600
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Jaén",
+      "Total": 539700,
+      "Activos": 296400,
+      "Ocupados": 208300,
+      "Parados": 88100,
+      "Parados que buscan primer empleo": 7600,
+      "Inactivos": 243200
     },
     {
       "Año": "2015",
@@ -16017,6 +16303,17 @@
       "Inactivos": 263500
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "León",
+      "Total": 410700,
+      "Activos": 206800,
+      "Ocupados": 162400,
+      "Parados": 44400,
+      "Parados que buscan primer empleo": 4300,
+      "Inactivos": 203900
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "León",
@@ -16631,6 +16928,17 @@
       "Parados": 21400,
       "Parados que buscan primer empleo": 4300,
       "Inactivos": 240200
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Lleida",
+      "Total": 352700,
+      "Activos": 222400,
+      "Ocupados": 188600,
+      "Parados": 33800,
+      "Parados que buscan primer empleo": 3000,
+      "Inactivos": 130300
     },
     {
       "Año": "2015",
@@ -17249,6 +17557,17 @@
       "Inactivos": 143900
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Lugo",
+      "Total": 296900,
+      "Activos": 157500,
+      "Ocupados": 131400,
+      "Parados": 26000,
+      "Parados que buscan primer empleo": 2600,
+      "Inactivos": 139400
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Lugo",
@@ -17863,6 +18182,17 @@
       "Parados": 15200,
       "Parados que buscan primer empleo": 4100,
       "Inactivos": 157900
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Madrid",
+      "Total": 5271200,
+      "Activos": 3386400,
+      "Ocupados": 2817000,
+      "Parados": 569400,
+      "Parados que buscan primer empleo": 61700,
+      "Inactivos": 1884800
     },
     {
       "Año": "2015",
@@ -18481,6 +18811,17 @@
       "Inactivos": 1925600
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Málaga",
+      "Total": 1350700,
+      "Activos": 803400,
+      "Ocupados": 578200,
+      "Parados": 225200,
+      "Parados que buscan primer empleo": 20300,
+      "Inactivos": 547300
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Málaga",
@@ -19095,6 +19436,17 @@
       "Parados": 82000,
       "Parados que buscan primer empleo": 17600,
       "Inactivos": 516300
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Murcia",
+      "Total": 1182500,
+      "Activos": 695800,
+      "Ocupados": 542000,
+      "Parados": 153800,
+      "Parados que buscan primer empleo": 17900,
+      "Inactivos": 486800
     },
     {
       "Año": "2015",
@@ -19713,6 +20065,17 @@
       "Inactivos": 433200
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Navarra",
+      "Total": 521300,
+      "Activos": 306500,
+      "Ocupados": 262800,
+      "Parados": 43700,
+      "Parados que buscan primer empleo": 5100,
+      "Inactivos": 214700
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Navarra",
@@ -20327,6 +20690,17 @@
       "Parados": 15900,
       "Parados que buscan primer empleo": 2100,
       "Inactivos": 205500
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Ourense",
+      "Total": 277400,
+      "Activos": 129000,
+      "Ocupados": 102200,
+      "Parados": 26900,
+      "Parados que buscan primer empleo": 2700,
+      "Inactivos": 148400
     },
     {
       "Año": "2015",
@@ -20945,6 +21319,17 @@
       "Inactivos": 163200
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Palencia",
+      "Total": 138300,
+      "Activos": 75600,
+      "Ocupados": 62000,
+      "Parados": 13600,
+      "Parados que buscan primer empleo": 1600,
+      "Inactivos": 62700
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Palencia",
@@ -21559,6 +21944,17 @@
       "Parados": 5200,
       "Parados que buscan primer empleo": 1100,
       "Inactivos": 83700
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Palmas,",
+      "Total": 930200,
+      "Activos": 563600,
+      "Ocupados": 418600,
+      "Parados": 145000,
+      "Parados que buscan primer empleo": 8000,
+      "Inactivos": 366600
     },
     {
       "Año": "2015",
@@ -22177,6 +22573,17 @@
       "Inactivos": 309600
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Pontevedra",
+      "Total": 806000,
+      "Activos": 435800,
+      "Ocupados": 345700,
+      "Parados": 90100,
+      "Parados que buscan primer empleo": 6100,
+      "Inactivos": 370200
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Pontevedra",
@@ -22791,6 +23198,17 @@
       "Parados": 59200,
       "Parados que buscan primer empleo": 8900,
       "Inactivos": 368900
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Rioja,",
+      "Total": 258900,
+      "Activos": 152200,
+      "Ocupados": 130300,
+      "Parados": 21900,
+      "Parados que buscan primer empleo": 2200,
+      "Inactivos": 106700
     },
     {
       "Año": "2015",
@@ -23409,6 +23827,17 @@
       "Inactivos": 113300
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Salamanca",
+      "Total": 287400,
+      "Activos": 149800,
+      "Ocupados": 124200,
+      "Parados": 25600,
+      "Parados que buscan primer empleo": 3100,
+      "Inactivos": 137700
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Salamanca",
@@ -24023,6 +24452,17 @@
       "Parados": 19800,
       "Parados que buscan primer empleo": 5400,
       "Inactivos": 148900
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Santa",
+      "Total": 866300,
+      "Activos": 533500,
+      "Ocupados": 393300,
+      "Parados": 140200,
+      "Parados que buscan primer empleo": 9100,
+      "Inactivos": 332800
     },
     {
       "Año": "2015",
@@ -24641,6 +25081,17 @@
       "Inactivos": 292200
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Segovia",
+      "Total": 130900,
+      "Activos": 77700,
+      "Ocupados": 64300,
+      "Parados": 13400,
+      "Parados que buscan primer empleo": 1600,
+      "Inactivos": 53200
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Segovia",
@@ -25255,6 +25706,17 @@
       "Parados": 5400,
       "Parados que buscan primer empleo": 1400,
       "Inactivos": 61700
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Sevilla",
+      "Total": 1575000,
+      "Activos": 930200,
+      "Ocupados": 665100,
+      "Parados": 265100,
+      "Parados que buscan primer empleo": 19300,
+      "Inactivos": 644800
     },
     {
       "Año": "2015",
@@ -25873,6 +26335,17 @@
       "Inactivos": 648900
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Soria",
+      "Total": 76500,
+      "Activos": 40900,
+      "Ocupados": 34600,
+      "Parados": 6300,
+      "Parados que buscan primer empleo": 1000,
+      "Inactivos": 35600
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Soria",
@@ -26487,6 +26960,17 @@
       "Parados": 2100,
       "Parados que buscan primer empleo": 300,
       "Inactivos": 36900
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Tarragona",
+      "Total": 647600,
+      "Activos": 394600,
+      "Ocupados": 310700,
+      "Parados": 83900,
+      "Parados que buscan primer empleo": 6700,
+      "Inactivos": 253100
     },
     {
       "Año": "2015",
@@ -27105,6 +27589,17 @@
       "Inactivos": 212200
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Teruel",
+      "Total": 114600,
+      "Activos": 65600,
+      "Ocupados": 56100,
+      "Parados": 9500,
+      "Parados que buscan primer empleo": 800,
+      "Inactivos": 49000
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Teruel",
@@ -27719,6 +28214,17 @@
       "Parados": 2500,
       "Parados que buscan primer empleo": 400,
       "Inactivos": 64000
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Toledo",
+      "Total": 556900,
+      "Activos": 335600,
+      "Ocupados": 242400,
+      "Parados": 93200,
+      "Parados que buscan primer empleo": 8300,
+      "Inactivos": 221300
     },
     {
       "Año": "2015",
@@ -28337,6 +28843,17 @@
       "Inactivos": 213900
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Valencia/València",
+      "Total": 2087700,
+      "Activos": 1259900,
+      "Ocupados": 999500,
+      "Parados": 260400,
+      "Parados que buscan primer empleo": 23300,
+      "Inactivos": 827800
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Valencia/València",
@@ -28951,6 +29468,17 @@
       "Parados": 118200,
       "Parados que buscan primer empleo": 10500,
       "Inactivos": 814800
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Valladolid",
+      "Total": 441400,
+      "Activos": 254900,
+      "Ocupados": 213900,
+      "Parados": 41100,
+      "Parados que buscan primer empleo": 2800,
+      "Inactivos": 186400
     },
     {
       "Año": "2015",
@@ -29569,6 +30097,17 @@
       "Inactivos": 197700
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Zamora",
+      "Total": 158300,
+      "Activos": 80000,
+      "Ocupados": 63200,
+      "Parados": 16900,
+      "Parados que buscan primer empleo": 1700,
+      "Inactivos": 78300
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Zamora",
@@ -30183,6 +30722,17 @@
       "Parados": 7000,
       "Parados que buscan primer empleo": 2500,
       "Inactivos": 103200
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Zaragoza",
+      "Total": 796100,
+      "Activos": 475800,
+      "Ocupados": 401300,
+      "Parados": 74600,
+      "Parados que buscan primer empleo": 6000,
+      "Inactivos": 320200
     },
     {
       "Año": "2015",
@@ -30801,6 +31351,17 @@
       "Inactivos": 358900
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Ceuta",
+      "Total": 64800,
+      "Activos": 38100,
+      "Ocupados": 28100,
+      "Parados": 10000,
+      "Parados que buscan primer empleo": 1300,
+      "Inactivos": 26700
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Provincia": "Ceuta",
@@ -31415,6 +31976,17 @@
       "Parados": 1600,
       "Parados que buscan primer empleo": 800,
       "Inactivos": 31400
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Provincia": "Melilla",
+      "Total": 62100,
+      "Activos": 35300,
+      "Ocupados": 24400,
+      "Parados": 10800,
+      "Parados que buscan primer empleo": 3000,
+      "Inactivos": 26900
     },
     {
       "Año": "2015",

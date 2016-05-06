@@ -11,6 +11,8 @@ YEAR_KEY = 'Año'
 QUARTER_KEY = 'Trimestre'
 PROVINCE_KEY = 'Provincia'
 
+include CodeForSpain::Utils
+
 file_path = download URL
 
 dataset = PCAxis::Dataset.new file_path

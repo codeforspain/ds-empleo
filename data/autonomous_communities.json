@@ -1,6 +1,17 @@
 {
   "data": [
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Comunidad Autónoma": "Andalucía",
+      "Total": 6881600,
+      "Activos": 4003500,
+      "Ocupados": 2814300,
+      "Parados": 1189200,
+      "Parados que buscan primer empleo": 101000,
+      "Inactivos": 2878100
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Comunidad Autónoma": "Andalucía",
@@ -615,6 +626,17 @@
       "Parados": 591100,
       "Parados que buscan primer empleo": 98700,
       "Inactivos": 2880400
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Comunidad Autónoma": "Aragón",
+      "Total": 1094600,
+      "Activos": 647300,
+      "Ocupados": 548300,
+      "Parados": 98900,
+      "Parados que buscan primer empleo": 8500,
+      "Inactivos": 447300
     },
     {
       "Año": "2015",
@@ -1233,6 +1255,17 @@
       "Inactivos": 512600
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Comunidad Autónoma": "Asturias, Principado de",
+      "Total": 908100,
+      "Activos": 466300,
+      "Ocupados": 375400,
+      "Parados": 90900,
+      "Parados que buscan primer empleo": 9400,
+      "Inactivos": 441800
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Comunidad Autónoma": "Asturias, Principado de",
@@ -1847,6 +1880,17 @@
       "Parados": 37100,
       "Parados que buscan primer empleo": 10700,
       "Inactivos": 531600
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Comunidad Autónoma": "Balears, Illes",
+      "Total": 941100,
+      "Activos": 601900,
+      "Ocupados": 491100,
+      "Parados": 110800,
+      "Parados que buscan primer empleo": 9300,
+      "Inactivos": 339300
     },
     {
       "Año": "2015",
@@ -2465,6 +2509,17 @@
       "Inactivos": 291000
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Comunidad Autónoma": "Canarias",
+      "Total": 1796500,
+      "Activos": 1097100,
+      "Ocupados": 811800,
+      "Parados": 285200,
+      "Parados que buscan primer empleo": 17100,
+      "Inactivos": 699400
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Comunidad Autónoma": "Canarias",
@@ -3079,6 +3134,17 @@
       "Parados": 84600,
       "Parados que buscan primer empleo": 10200,
       "Inactivos": 601700
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Comunidad Autónoma": "Cantabria",
+      "Total": 492000,
+      "Activos": 273900,
+      "Ocupados": 222100,
+      "Parados": 51800,
+      "Parados que buscan primer empleo": 4500,
+      "Inactivos": 218100
     },
     {
       "Año": "2015",
@@ -3697,6 +3763,17 @@
       "Inactivos": 231700
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Comunidad Autónoma": "Castilla y León",
+      "Total": 2083400,
+      "Activos": 1142100,
+      "Ocupados": 932800,
+      "Parados": 209400,
+      "Parados que buscan primer empleo": 20000,
+      "Inactivos": 941300
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Comunidad Autónoma": "Castilla y León",
@@ -4311,6 +4388,17 @@
       "Parados": 110200,
       "Parados que buscan primer empleo": 24200,
       "Inactivos": 1091500
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Comunidad Autónoma": "Castilla - La Mancha",
+      "Total": 1682600,
+      "Activos": 983500,
+      "Ocupados": 733200,
+      "Parados": 250300,
+      "Parados que buscan primer empleo": 26400,
+      "Inactivos": 699000
     },
     {
       "Año": "2015",
@@ -4929,6 +5017,17 @@
       "Inactivos": 735800
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Comunidad Autónoma": "Cataluña",
+      "Total": 6083400,
+      "Activos": 3787500,
+      "Ocupados": 3127600,
+      "Parados": 660000,
+      "Parados que buscan primer empleo": 60300,
+      "Inactivos": 2295900
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Comunidad Autónoma": "Cataluña",
@@ -5543,6 +5642,17 @@
       "Parados": 340600,
       "Parados que buscan primer empleo": 39400,
       "Inactivos": 2252700
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Comunidad Autónoma": "Comunitat Valenciana",
+      "Total": 4097300,
+      "Activos": 2421800,
+      "Ocupados": 1892800,
+      "Parados": 529000,
+      "Parados que buscan primer empleo": 41100,
+      "Inactivos": 1675400
     },
     {
       "Año": "2015",
@@ -6161,6 +6271,17 @@
       "Inactivos": 1557000
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Comunidad Autónoma": "Extremadura",
+      "Total": 909900,
+      "Activos": 504500,
+      "Ocupados": 357500,
+      "Parados": 147000,
+      "Parados que buscan primer empleo": 10700,
+      "Inactivos": 405500
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Comunidad Autónoma": "Extremadura",
@@ -6775,6 +6896,17 @@
       "Parados": 84700,
       "Parados que buscan primer empleo": 13300,
       "Inactivos": 436300
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Comunidad Autónoma": "Galicia",
+      "Total": 2351100,
+      "Activos": 1249000,
+      "Ocupados": 1021100,
+      "Parados": 227900,
+      "Parados que buscan primer empleo": 17600,
+      "Inactivos": 1102200
     },
     {
       "Año": "2015",
@@ -7393,6 +7525,17 @@
       "Inactivos": 1162400
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Comunidad Autónoma": "Madrid, Comunidad de",
+      "Total": 5271200,
+      "Activos": 3386400,
+      "Ocupados": 2817000,
+      "Parados": 569400,
+      "Parados que buscan primer empleo": 61700,
+      "Inactivos": 1884800
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Comunidad Autónoma": "Madrid, Comunidad de",
@@ -8007,6 +8150,17 @@
       "Parados": 202600,
       "Parados que buscan primer empleo": 34200,
       "Inactivos": 1925600
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Comunidad Autónoma": "Murcia, Región de",
+      "Total": 1182500,
+      "Activos": 695800,
+      "Ocupados": 542000,
+      "Parados": 153800,
+      "Parados que buscan primer empleo": 17900,
+      "Inactivos": 486800
     },
     {
       "Año": "2015",
@@ -8625,6 +8779,17 @@
       "Inactivos": 433200
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Comunidad Autónoma": "Navarra, Comunidad Foral de",
+      "Total": 521300,
+      "Activos": 306500,
+      "Ocupados": 262800,
+      "Parados": 43700,
+      "Parados que buscan primer empleo": 5100,
+      "Inactivos": 214700
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Comunidad Autónoma": "Navarra, Comunidad Foral de",
@@ -9239,6 +9404,17 @@
       "Parados": 15900,
       "Parados que buscan primer empleo": 2100,
       "Inactivos": 205500
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Comunidad Autónoma": "País Vasco",
+      "Total": 1809400,
+      "Activos": 1028400,
+      "Ocupados": 896800,
+      "Parados": 131600,
+      "Parados que buscan primer empleo": 15100,
+      "Inactivos": 781000
     },
     {
       "Año": "2015",
@@ -9857,6 +10033,17 @@
       "Inactivos": 817100
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Comunidad Autónoma": "Rioja, La",
+      "Total": 258900,
+      "Activos": 152200,
+      "Ocupados": 130300,
+      "Parados": 21900,
+      "Parados que buscan primer empleo": 2200,
+      "Inactivos": 106700
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Comunidad Autónoma": "Rioja, La",
@@ -10473,6 +10660,17 @@
       "Inactivos": 113300
     },
     {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Comunidad Autónoma": "Ceuta",
+      "Total": 64800,
+      "Activos": 38100,
+      "Ocupados": 28100,
+      "Parados": 10000,
+      "Parados que buscan primer empleo": 1300,
+      "Inactivos": 26700
+    },
+    {
       "Año": "2015",
       "Trimestre": "4",
       "Comunidad Autónoma": "Ceuta",
@@ -11087,6 +11285,17 @@
       "Parados": 1600,
       "Parados que buscan primer empleo": 800,
       "Inactivos": 31400
+    },
+    {
+      "Año": "2016",
+      "Trimestre": "1",
+      "Comunidad Autónoma": "Melilla",
+      "Total": 62100,
+      "Activos": 35300,
+      "Ocupados": 24400,
+      "Parados": 10800,
+      "Parados que buscan primer empleo": 3000,
+      "Inactivos": 26900
     },
     {
       "Año": "2015",
